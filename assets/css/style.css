@@ -82,6 +82,8 @@ p {
     background-color: #2589bd;
 }
 
+/* Deleted and consolidated redundant CSS under one class*/
+
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -96,6 +98,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+
+/*Deleted redundant CSS and consolidated code into one class*/
 
 .info {
     margin-bottom: 20px;
